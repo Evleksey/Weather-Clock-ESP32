@@ -1,5 +1,6 @@
 # ESP 32 Clock and Weather station
-publiched by Aleksey Evgrashin
+published by Aleksey Evgrashin
+
 ## Pictures
 
 Clock
