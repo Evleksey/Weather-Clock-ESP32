@@ -11,7 +11,7 @@ Weather report
 **Note:**  
 This sketch uses OpenWeatherMap API. In oreder to use you need to set up a free account on https://openweathermap.org/.
 
-In OLED_I2C library folder relpase '<DefaultFonts.c>' file with one in his repository to get custom DSEG_Weather and DSEG_Modern fonts used in the scetch.
+In OLED_I2C library folder relpase `<DefaultFonts.c>` file with one in his repository to get custom DSEG_Weather and DSEG_Modern fonts used in the scetch.
 
 ## Compiling Source
 (**0.** Download and install [Arduino](https://www.arduino.cc/en/Main/Software))  
@@ -19,4 +19,4 @@ In OLED_I2C library folder relpase '<DefaultFonts.c>' file with one in his repos
 **2.** Install this ESP8266/ESP32 OLED library: https://github.com/ThingPulse/esp8266-oled-ssd1306
 **3.** Install this Dictionary Library: https://github.com/arkhipenko/Dictionary
 **4.** Istall Arduino Json Library using Library Manager reference: https://arduinojson.org/
-**5.** In OLED_I2C library folder relpase <DefaultFonts.c> file with one in his repository to get custom DSEG_Weather and DSEG_Modern fonts used in the scetch.
+**5.** In OLED_I2C library folder relpase `<DefaultFonts.c>` file with one in his repository to get custom DSEG_Weather and DSEG_Modern fonts used in the scetch.
