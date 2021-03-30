@@ -1,5 +1,6 @@
-# ESP 32 Clock and Weather station
+# ESP 32 Clock and Weather station ![Logo](https://github.com/Evleksey/Weather-Clock-ESP32/blob/main/images/Logo.png)
 published by Aleksey Evgrashin
+
 
 ## Pictures
 
