@@ -153,12 +153,10 @@ void setup() {
 void draw_weather() {
   display.clear();
   
-  display.setTextAlignment(TEXT_ALIGN_CENTER);   
+  display.setTextAlignment(TEXT_ALIGN_LEFT);   
   display.setFont(Weather_24);  // this font consists only of sveral weather icons
-  display.drawString(15, 0, ico); // draw icon
-
-
-  display.setTextAlignment(TEXT_ALIGN_LEFT);
+  display.drawString(5, -5, ico); // draw icon
+  
   display.setFont(ArialMT_Plain_16);  
   display.drawString(30, 0, description);   
   
